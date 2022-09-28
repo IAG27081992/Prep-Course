@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#Titulo {
+    text-align: center;
+    font-size: 70px;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#Datos, #Educacion, #Experiencias, #Conocimientos, #Hobbie {
+    text-align: left;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 20px;
+    padding: 10px;
+}
+
+strong {
+    font-size: 25px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}

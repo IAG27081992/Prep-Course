@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: yellow;
+    border: 5px solid green;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+#thirdDiv, #spanId, .divClass, h1, h3, h4 {
+    text-align: center;
+}
+
+body {
+    background-image: url(logoOG.png);
+}
